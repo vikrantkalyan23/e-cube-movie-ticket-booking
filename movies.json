@@ -1,0 +1,12 @@
+{
+    "latestMovies": [
+      { "id": 1, "title": "Avatar: The Way of Water", "releaseDate": "2023-12-15", "rating": 4.8 },
+      { "id": 2, "title": "Spider-Man: No Way Home", "releaseDate": "2021-12-17", "rating": 4.7 },
+      { "id": 3, "title": "The Batman", "releaseDate": "2022-03-04", "rating": 4.5 }
+    ],
+    "upcomingMovies": [
+      { "id": 4, "title": "Dune: Part Two", "releaseDate": "2024-11-03" },
+      { "id": 5, "title": "Mission: Impossible - Dead Reckoning Part Two", "releaseDate": "2024-06-28" }
+    ]
+  }
+  
